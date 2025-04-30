@@ -1,0 +1,8 @@
+#exercicio. procurar nome #
+
+nome = input ().lower().strip()
+
+print (nome [:5] == 'santo')
+print ('santo'in nome )
+
+print (nome)
